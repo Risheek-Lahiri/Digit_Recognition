@@ -1,0 +1,42 @@
+****----------------****
+-Common Settings are : -
+ P (=Q) = : 12
+ Frame Size : 320
+ Num of Files For Training : 20
+ Num of Files For Testing : 20
+ Tokhura Weights : 1.0(1) 3.0(2) 7.0(3) 13.0(4) 19.0(5) 22.0(6) 25.0(7) 33.0(8) 42.0(9) 50.0(10) 56.0(11) 61.0(12) 
+ Amplitutde Value to Scale : 5000
+ Intital Header Lines Ignore Count : 5
+ Intital Samples to Ignore : 6400
+ Intital Noise Frames Count : 10
+ Noise to Energy Factor : 3
+ Sampling Rate of Recording: 16000
+----------------------------------------------------------------
+
+
+ ----------------------- START - ANALYZING OF FILE: input_live_voice_data/live_1698406480.txt ----------------------- 
+ TOTAL SAMPLES : 41596
+ TOTAL FRAMES : 129
+ DC SHIFT needed : -2.949803
+ Maximum Amplitude : 20847
+ Normalization Factor : 0.239843
+ 
+---- Initial Noise Frames : 10 ----
+
+ Avg Noise Energy : 25532.285156
+ Total Noise ZCR : 362.0
+ Threshold ZCR : 36.2
+ Threshold Energy(Avg Noise*3) : 76596.85547
+ 
+---- Segregated Data Saved in File: output_voice_recordings_normalised_segregated/live_1698406480_normalized_segregated_data.txt ----
+
+ START Frame : 11	 END Frame : 120	 Total Frames : 110
+ Starting Sample : 3520	 Ending Sample : 38400
+ Starting Time (seconds) : 0.220000	 Ending Time (seconds) : 2.400000
+ Max STE Marker Frame : 113
+
+--------
+
+------------------------------------------------------------------------
+
+ ----------------------- END - ANALYZING OF FILE:  ----------------------- 

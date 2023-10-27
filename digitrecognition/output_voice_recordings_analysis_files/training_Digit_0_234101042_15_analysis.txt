@@ -1,0 +1,27 @@
+
+ ----------------------- START - ANALYZING OF FILE: input_voice_training_data/0/234101042_15.txt ----------------------- 
+ TOTAL SAMPLES : 41596
+ TOTAL FRAMES : 129
+ DC SHIFT needed : -0.071201
+ Maximum Amplitude : 17468
+ Normalization Factor : 0.286238
+ 
+---- Initial Noise Frames : 10 ----
+
+ Avg Noise Energy : 0.806165
+ Total Noise ZCR : 1080.0
+ Threshold ZCR : 108.0
+ Threshold Energy(Avg Noise*3) : 2.41850
+ 
+---- Segregated Data Saved in File: output_voice_recordings_normalised_segregated/training_Digit_0_234101042_15_normalized_segregated_data.txt ----
+
+ START Frame : 37	 END Frame : 74	 Total Frames : 38
+ Starting Sample : 11840	 Ending Sample : 23680
+ Starting Time (seconds) : 0.740000	 Ending Time (seconds) : 1.480000
+ Max STE Marker Frame : 53
+
+--------
+
+------------------------------------------------------------------------
+
+ ----------------------- END - ANALYZING OF FILE: training_Digit_0_234101042_15 ----------------------- 
